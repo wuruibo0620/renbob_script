@@ -33,7 +33,7 @@ class ZolSpider(scrapy.Spider):
             item['num_plp'] = re.match(r'(\d*)',item['num_plp'])[0]
             item['img_url'] = camera.xpath("./a/img/@*[3]").extract_first()    # xpath匹配
             # item['img_url'] = camera.re('<a href.*src="(https://.*\.[a-z]*)".*</a>')[0]   # 正则匹配
-            print(item['num_plp'])
+            # print(item['num_plp'])
 
 
             next_url = camera.xpath("./a[@class='pic']/@href").extract_first()
@@ -47,8 +47,10 @@ class ZolSpider(scrapy.Spider):
         item['title'] = response.xpath("//div[@class='product-model page-title clearfix']/h1[@class='product-model__name']/text()").extract_first()
         item['price_ref'] = response.xpath("//div[@class='product-price-box clearfix ']/div[@class='price__reference']/div/span/b[2]/text()").extract_first()
         item['price_shop'] = response.xpath("//div[@class='price__other']/dl[@class='price__merchant']/dd[@id='_j_local_price']/a[@class='price']/text()").extract_first()
-        item['shop'] = response.xpath("//div[@class='product-price-box clearfix ']/div[@class='price__other']/dl[@class='price__b2c']/dd//li/a/text()").extract_first()
-        item['parameter'] = response.xpath("//div[@class='content']/div[@class='section'][1]/div[@class='section-content']/ul[@class='product-param-item pi-15 clearfix']/li/p/text()").extract_first()
+        item['shop'] = response.xpath("//div[@class='product-price-box clearfix ']/div[@class='price__other']/dl[@class='price__b2c']/dd//li/a/text()").extract()
+        item['shop'] = ",".join(item['shop'])
+        item['parameter'] = response.xpath("//div[@class='content']/div[@class='section'][1]/div[@class='section-content']/ul[@class='product-param-item pi-15 clearfix']/li/p/text()").extract()
+        item['parameter'] = ",".join(item['parameter'])
 
         yield item
 
