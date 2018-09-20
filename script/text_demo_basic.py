@@ -81,7 +81,7 @@ def my_sum(num):
 @time_cost
 def my_sleep():
     print('呼呼大睡!')
-    time.sleep(2)
+    # time.sleep(2)
 
 
 my_sleep()
@@ -98,7 +98,7 @@ def control_time(times):
     return wrap
 
 
-@control_time(3)
+@control_time(0.01)
 def play(name):
     print('开始玩%s' % name)
     print('时间到了不玩了!')
@@ -110,14 +110,54 @@ play('lol')
 print("--------------------------------------")
 
 
-class Wraper(object):
+class wraper:
+    def __init__(self, func):
+        self.func = func
+
     def __call__(self, *args, **kwargs):
-        print('++++++++++++++++++++')
+        print('+++++++++++++')
+        self.func()
+        print('+++++++++++++')
+        return '呵呵'
 
 
-@Wraper
+@wraper
 def hello():
     print("Hello World!")
 
 
-hello()
+temp = hello()
+print(temp)
+print('----------------------------------------------------')
+
+
+class retry:
+    def __init__(self, max_times=3, sleep_time=0, exceptions=(Exception,)):
+        self.max_times = max_times
+        self.sleep_time = sleep_time
+        self.exceptions = exceptions
+
+    def __call__(self, func):
+        def wrapper(*args, **kwargs):
+            for count in range(self.max_times):
+                try:
+                    print(f"try0{count+1}")
+                    result = func(*args, **kwargs)
+                except self.exceptions:
+                    time.sleep(self.sleep_time)
+                    continue
+                else:
+                    return result
+        return wrapper
+
+
+@retry(9, 0.1, ValueError)
+def my_random(x, y):
+    res = random.randint(x, y)
+    if res <= 0:
+        raise ValueError
+    else:
+        print(res)
+
+
+my_random(-9, 1)
