@@ -1,3 +1,7 @@
+import random
+from multiprocessing import Process, Queue
+
+
 dict1 = {'Jack': 21, 'Tom': 22, 'Port': 23, 'Monica': 18}
 result = {key: value for value, key in sorted(zip(dict1.values(), dict1.keys()))}
 print(result)
@@ -19,7 +23,7 @@ class Point:
 p1 = Point(4, 2)
 p2 = Point(2, 1)
 p3 = p1 - p2
-print(p3. x, p3. y)
+print(p3.x, p3.y)
 
 
 class Box:
@@ -71,3 +75,30 @@ class Dict(dict):
     # 缺失元素的操作
     def __missing__(self, key):
         raise KeyError('Key not exists')   # 还可以更换成其它的功能
+
+
+q = Queue()
+
+
+def foo(n, queue):
+    x = 0
+    for _ in range(n):
+        x += random.randint(1, 100)
+        # 准备把x放进队列q中
+        queue.put(x)
+    return x
+
+
+def bar(q, n):
+    for i in range(n):
+        data = q.get()
+        print(f'取到了数据{data}')
+
+
+if __name__ == '__main__':
+    p1 = Process(target=foo, args=(1000, q))
+    p1.start()
+
+    p2 = Process(target=bar, args=(q, 100))
+
+
