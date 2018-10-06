@@ -12,3 +12,10 @@ class LjItem(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
     img_url = scrapy.Field()
+
+
+class LjName(scrapy.Item):
+    name = scrapy.Field()
+    img_url = scrapy.Field()
+    page = scrapy.Field()
+    link_url = scrapy.Field()
