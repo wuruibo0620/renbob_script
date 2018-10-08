@@ -10,13 +10,13 @@ from LJ.items import LjItem
 class LjreSpider(scrapy.Spider):
     name = 'ljre'
     allowed_domains = ['rossia.org', 'imagenpic.com']
-    start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/']
-    # start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/?skip=2340']    # 3520开始有没有下完的，3840 报错
+    # start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/']
+    start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/?skip=4720']    # 3520开始有没有下完的，3840 报错
     # start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/?skip=3720']
     # start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/?skip=4400']
     # start_urls = ['http://lj.rossia.org/users/vrotmnen0gi/?skip=5360']
     head_url = 'http://lj.rossia.org/users/vrotmnen0gi/?skip='    # 翻页时固定不变的url地址
-    page = 0   # 起始页为第0页
+    page = 236   # 起始页为第0页
 
     def parse(self, response):
         target_list = ['Cali', 'Zelda', 'Maria', 'Kaleesy', 'Clarice']
@@ -42,7 +42,7 @@ class LjreSpider(scrapy.Spider):
 
         # 翻到下一页
         self.page += 1
-        if self.page < 376:    # 设定翻页的页数(最大380）
+        if self.page < 375:    # 设定翻页的页数(最大380）
             url_page = self.head_url + str(self.page * 20)
             print(f'当前第{self.page}页')
             print(url_page)

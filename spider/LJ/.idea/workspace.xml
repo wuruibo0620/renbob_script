@@ -14,13 +14,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ljre.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ljre.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LJ/spiders/ljre.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="129">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
               <folding>
                 <element signature="e#24#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="123.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LJ/123.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="922">
+              <caret line="2999" column="15" lean-forward="true" selection-start-line="2999" selection-start-column="15" selection-end-line="2999" selection-end-column="15" />
+              <folding>
+                <element signature="e#30013#30019#0" expanded="true" />
+                <element signature="e#30390#30396#0" expanded="true" />
+                <element signature="e#30510#30516#0" expanded="true" />
+                <element signature="e#30516#30522#0" expanded="true" />
+                <element signature="e#48122#48128#0" expanded="true" />
+                <element signature="e#64355#64359#0" expanded="true" />
+                <element signature="e#64477#64481#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#8;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#10;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#11;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#90438#90444#1" expanded="true" />
+                <element signature="e#124946#124952#0" expanded="true" />
+                <element signature="e#125323#125329#0" expanded="true" />
+                <element signature="e#125443#125449#0" expanded="true" />
+                <element signature="e#125449#125455#0" expanded="true" />
+                <element signature="e#143055#143061#0" expanded="true" />
+                <element signature="e#159288#159292#0" expanded="true" />
+                <element signature="e#159410#159414#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#8;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#10;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#11;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="e#185371#185377#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LJ/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               <folding>
                 <element signature="e#193#204#0" expanded="true" />
               </folding>
@@ -91,14 +146,14 @@
         <option value="$PROJECT_DIR$/LJ/spiders/LJspider.py" />
         <option value="$PROJECT_DIR$/LJ/spiders/678.html" />
         <option value="$PROJECT_DIR$/LJ/items.py" />
-        <option value="$PROJECT_DIR$/LJ/123.html" />
         <option value="$PROJECT_DIR$/LJ.json" />
         <option value="$PROJECT_DIR$/LJ/spiders/lj_name.py" />
         <option value="$PROJECT_DIR$/LJ/LJ_spider_my.py" />
         <option value="$PROJECT_DIR$/LJ_spider_my.py" />
         <option value="$PROJECT_DIR$/LJ/settings.py" />
-        <option value="$PROJECT_DIR$/LJ/spiders/ljre.py" />
         <option value="$PROJECT_DIR$/LJ/pipelines.py" />
+        <option value="$PROJECT_DIR$/LJ/123.html" />
+        <option value="$PROJECT_DIR$/LJ/spiders/ljre.py" />
       </list>
     </option>
   </component>
@@ -111,10 +166,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="629" />
-    <option name="y" value="1" />
-    <option name="width" value="763" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="907" />
     <option name="height" value="727" />
   </component>
   <component name="ProjectView">
@@ -208,8 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -217,9 +271,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36963695" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31683168" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4669967" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30440968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
@@ -413,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LJ/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LJ/spiders/lj_name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -437,90 +484,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LJ/123.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="187" column="56" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#td#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5191#5197#0" expanded="true" />
-            <element signature="e#5279#5285#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6475#6481#0" expanded="true" />
-            <element signature="e#6557#6563#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7516#7522#0" expanded="true" />
-            <element signature="e#7598#7604#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8558#8564#0" expanded="true" />
-            <element signature="e#8640#8646#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#9598#9604#0" expanded="true" />
-            <element signature="e#9680#9686#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10640#10646#0" expanded="true" />
-            <element signature="e#10722#10728#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11685#11691#0" expanded="true" />
-            <element signature="e#11773#11779#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12955#12961#0" expanded="true" />
-            <element signature="e#13037#13043#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#13995#14001#0" expanded="true" />
-            <element signature="e#14077#14083#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15031#15037#0" expanded="true" />
-            <element signature="e#15113#15119#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16067#16073#0" expanded="true" />
-            <element signature="e#16149#16155#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17112#17118#0" expanded="true" />
-            <element signature="e#17194#17200#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#14;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#18158#18164#0" expanded="true" />
-            <element signature="e#18246#18252#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#14;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#15;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#19426#19432#0" expanded="true" />
-            <element signature="e#19508#19514#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#16;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#20464#20470#0" expanded="true" />
-            <element signature="e#20546#20552#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#21507#21513#0" expanded="true" />
-            <element signature="e#21589#21595#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#18;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#22553#22559#0" expanded="true" />
-            <element signature="e#22635#22641#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#19;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23592#23598#0" expanded="true" />
-            <element signature="e#23674#23680#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#20;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#24566#24572#0" expanded="true" />
-            <element signature="e#24648#24654#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LJ/spiders/LJspider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="40" column="55" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="55" />
-          <folding>
-            <element signature="e#24#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LJ/spiders/ljre.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding>
             <element signature="e#24#46#0" expanded="true" />
           </folding>
@@ -534,13 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1095">
-          <caret line="325" column="8" selection-start-line="325" selection-start-column="8" selection-end-line="325" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LJ_spider_my.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
@@ -551,12 +511,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1095">
+          <caret line="325" column="8" selection-start-line="325" selection-start-column="8" selection-end-line="325" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LJ/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding>
             <element signature="e#193#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ/123.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="922">
+          <caret line="2999" column="15" lean-forward="true" selection-start-line="2999" selection-start-column="15" selection-end-line="2999" selection-end-column="15" />
+          <folding>
+            <element signature="e#30013#30019#0" expanded="true" />
+            <element signature="e#30390#30396#0" expanded="true" />
+            <element signature="e#30510#30516#0" expanded="true" />
+            <element signature="e#30516#30522#0" expanded="true" />
+            <element signature="e#48122#48128#0" expanded="true" />
+            <element signature="e#64355#64359#0" expanded="true" />
+            <element signature="e#64477#64481#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#90438#90444#1" expanded="true" />
+            <element signature="e#124946#124952#0" expanded="true" />
+            <element signature="e#125323#125329#0" expanded="true" />
+            <element signature="e#125443#125449#0" expanded="true" />
+            <element signature="e#125449#125455#0" expanded="true" />
+            <element signature="e#143055#143061#0" expanded="true" />
+            <element signature="e#159288#159292#0" expanded="true" />
+            <element signature="e#159410#159414#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#10;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="e#185371#185377#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ/spiders/ljre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
           </folding>
         </state>
       </provider>

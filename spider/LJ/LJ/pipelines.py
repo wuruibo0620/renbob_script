@@ -30,7 +30,7 @@ class retry:
 
 
 class LjPipeline(object):
-    count = 0
+    count = 1297
 
     def process_item(self, item, spider):
         self.count += 1
